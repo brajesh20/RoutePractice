@@ -3,7 +3,7 @@ import React from 'react'
 const Gallery = () => {
   return (
     <div>
-      Gallery Page
+      This is Gallery Page
     </div>
   )
 }
